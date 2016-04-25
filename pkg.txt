@@ -19,6 +19,7 @@ MobaXTerm                      chocolatey
 putty                          chocolatey
 putty.portable                 chocolatey
 skype                          chocolatey
+syncthing-gtk                  chocolatey
 teamviewer                     chocolatey
 vcredist2005                   chocolatey
 vim                            chocolatey
